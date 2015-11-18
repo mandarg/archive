@@ -1,0 +1,9 @@
+[submodule "sercli"]
+	path = sercli
+	url = git@bitbucket.org:mandarg/sercli.git
+[submodule "traffic_analysis"]
+	path = traffic_analysis
+	url = git@bitbucket.org:mandarg/traffic_analysis.git
+[submodule "simple_proxy"]
+	path = simple_proxy
+	url = git@bitbucket.org:mandarg/simple_proxy.git
