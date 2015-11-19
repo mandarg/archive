@@ -1,0 +1,6 @@
+#! /bin/bash
+# Updates all submodules and checks out master
+
+git pull
+git submodule update --init --recursive
+git submodule foreach git checkout master
